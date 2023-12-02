@@ -19,8 +19,6 @@
 =>     php artisan make:migration create_orders_table
 <h6>Task 8: Command:</h6>
 =>     php artisan migrate
-<br />
-<br />
-<h5>***  You can rollback each task  ***  </h5>
+
 
 
